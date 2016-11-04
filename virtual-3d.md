@@ -19,7 +19,7 @@
 	- github: https://github.com/naam/software-engineering-oplossingen.git
 
 - De Cock Sam
-	- e-mailadres: naam@student.kdg.be
+	- e-mailadres: sam.decock@student.kdg.be
 	- github: https://github.com/naam/software-engineering-oplossingen.git
 
 - De Meyer Sam
@@ -31,7 +31,7 @@
 	- github: https://github.com/naam/software-engineering-oplossingen.git
 
 - De Ridder Sam
-	- e-mailadres: naam@student.kdg.be
+	- e-mailadres: sam.deridder@student.kdg.be
 	- github: https://github.com/naam/software-engineering-oplossingen.git
 
 - de Vlaminck Zion
